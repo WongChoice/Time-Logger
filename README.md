@@ -1,1 +1,1 @@
-# extension to log time 
+# extension to log time of employees
