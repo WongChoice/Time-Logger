@@ -1,4 +1,1 @@
-# extension
-
-Nothing relevant
-personal use.
+# extension to log time 
